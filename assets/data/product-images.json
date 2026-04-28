@@ -1,0 +1,838 @@
+[
+  {
+    "productId": "infinix-hot-50i",
+    "productVariantId": "dreamy-purple",
+    "productVariantName": "Dreamy Purple",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-50i/color/dreamy-purple.webp",
+        "lgImage": "assets/images/products/infinix-hot-50i/color/dreamy-purple-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-50i/color/dreamy-purple-md.webp",
+        "smImage": "assets/images/products/infinix-hot-50i/color/dreamy-purple-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-50i/color/dreamy-purple-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-50i",
+    "productVariantId": "sleek-black",
+    "productVariantName": "Sleek Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-50i/color/sleek-black.webp",
+        "lgImage": "assets/images/products/infinix-hot-50i/color/sleek-black-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-50i/color/sleek-black-md.webp",
+        "smImage": "assets/images/products/infinix-hot-50i/color/sleek-black-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-50i/color/sleek-black-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-50i",
+    "productVariantId": "sage-green",
+    "productVariantName": "Sage Green",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-50i/color/sage-green.webp",
+        "lgImage": "assets/images/products/infinix-hot-50i/color/sage-green-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-50i/color/sage-green-md.webp",
+        "smImage": "assets/images/products/infinix-hot-50i/color/sage-green-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-50i/color/sage-green-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-50i",
+    "productVariantId": "titanium-grey",
+    "productVariantName": "Titanium Grey",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-50i/color/titanium-grey.webp",
+        "lgImage": "assets/images/products/infinix-hot-50i/color/titanium-grey-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-50i/color/titanium-grey-md.webp",
+        "smImage": "assets/images/products/infinix-hot-50i/color/titanium-grey-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-50i/color/titanium-grey-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "productVariantId": "sleek-black",
+    "productVariantName": "Sleek Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i/color/sleek-black.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i/color/sleek-black-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i/color/sleek-black-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i/color/sleek-black-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i/color/sleek-black-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "productVariantId": "titanium-silver",
+    "productVariantName": "Titanium Silver",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i/color/titanium-silver.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i/color/titanium-silver-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i/color/titanium-silver-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i/color/titanium-silver-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i/color/titanium-silver-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "productVariantId": "shadow-blue",
+    "productVariantName": "Shadow Blue",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i/color/shadow-blue.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i/color/shadow-blue-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i/color/shadow-blue-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i/color/shadow-blue-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i/color/shadow-blue-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "productVariantId": "meadow-green",
+    "productVariantName": "Meadow Green",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i/color/meadow-green.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i/color/meadow-green-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i/color/meadow-green-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i/color/meadow-green-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i/color/meadow-green-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "productVariantId": "neon-red",
+    "productVariantName": "Neon Red",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i/color/neon-red.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i/color/neon-red-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i/color/neon-red-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i/color/neon-red-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i/color/neon-red-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "productVariantId": "soul-eye-purple",
+    "productVariantName": "Soul Eye Purple",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i/color/soul-eye-purple.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i/color/soul-eye-purple-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i/color/soul-eye-purple-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i/color/soul-eye-purple-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i/color/soul-eye-purple-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i-5g",
+    "productVariantId": "shadow-blue",
+    "productVariantName": "Shadow Blue",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i-5g/color/shadow-blue.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i-5g/color/shadow-blue-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i-5g/color/shadow-blue-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i-5g/color/shadow-blue-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i-5g/color/shadow-blue-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i-5g",
+    "productVariantId": "monsoon-green",
+    "productVariantName": "Monsoon Green",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i-5g/color/monsoon-green.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i-5g/color/monsoon-green-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i-5g/color/monsoon-green-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i-5g/color/monsoon-green-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i-5g/color/monsoon-green-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i-5g",
+    "productVariantId": "plum-red",
+    "productVariantName": "Plum Red",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i-5g/color/plum-red.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i-5g/color/plum-red-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i-5g/color/plum-red-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i-5g/color/plum-red-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i-5g/color/plum-red-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i-5g",
+    "productVariantId": "sleek-black",
+    "productVariantName": "Sleek Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60i-5g/color/sleek-black.webp",
+        "lgImage": "assets/images/products/infinix-hot-60i-5g/color/sleek-black-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60i-5g/color/sleek-black-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60i-5g/color/sleek-black-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60i-5g/color/sleek-black-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-9",
+    "productVariantId": "metallic-black",
+    "productVariantName": "Metallic Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-9/color/metallic-black.webp",
+        "lgImage": "assets/images/products/infinix-smart-9/color/metallic-black-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-9/color/metallic-black-md.webp",
+        "smImage": "assets/images/products/infinix-smart-9/color/metallic-black-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-9/color/metallic-black-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-9",
+    "productVariantId": "mint-green",
+    "productVariantName": "Mint Green",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-9/color/mint-green.webp",
+        "lgImage": "assets/images/products/infinix-smart-9/color/mint-green-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-9/color/mint-green-md.webp",
+        "smImage": "assets/images/products/infinix-smart-9/color/mint-green-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-9/color/mint-green-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-9",
+    "productVariantId": "neo-titanium",
+    "productVariantName": "Neo Titanium",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-9/color/neo-titanium.webp",
+        "lgImage": "assets/images/products/infinix-smart-9/color/neo-titanium-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-9/color/neo-titanium-md.webp",
+        "smImage": "assets/images/products/infinix-smart-9/color/neo-titanium-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-9/color/neo-titanium-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-9",
+    "productVariantId": "sandstone-gold",
+    "productVariantName": "Sandstone Gold",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-9/color/sandstone-gold.webp",
+        "lgImage": "assets/images/products/infinix-smart-9/color/sandstone-gold-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-9/color/sandstone-gold-md.webp",
+        "smImage": "assets/images/products/infinix-smart-9/color/sandstone-gold-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-9/color/sandstone-gold-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10",
+    "productVariantId": "sleek-black",
+    "productVariantName": "Sleek Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-10/color/sleek-black.webp",
+        "lgImage": "assets/images/products/infinix-smart-10/color/sleek-black-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-10/color/sleek-black-md.webp",
+        "smImage": "assets/images/products/infinix-smart-10/color/sleek-black-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-10/color/sleek-black-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10",
+    "productVariantId": "titanium-silver",
+    "productVariantName": "Titanium Silver",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-10/color/titanium-silver.webp",
+        "lgImage": "assets/images/products/infinix-smart-10/color/titanium-silver-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-10/color/titanium-silver-md.webp",
+        "smImage": "assets/images/products/infinix-smart-10/color/titanium-silver-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-10/color/titanium-silver-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10",
+    "productVariantId": "twilight-gold",
+    "productVariantName": "Twilight Gold",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-10/color/twilight-gold.webp",
+        "lgImage": "assets/images/products/infinix-smart-10/color/twilight-gold-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-10/color/twilight-gold-md.webp",
+        "smImage": "assets/images/products/infinix-smart-10/color/twilight-gold-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-10/color/twilight-gold-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10",
+    "productVariantId": "iris-blue",
+    "productVariantName": "Iris Blue",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-10/color/iris-blue.webp",
+        "lgImage": "assets/images/products/infinix-smart-10/color/iris-blue-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-10/color/iris-blue-md.webp",
+        "smImage": "assets/images/products/infinix-smart-10/color/iris-blue-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-10/color/iris-blue-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10-plus",
+    "productVariantId": "ruby-red",
+    "productVariantName": "Ruby Red",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-10-plus/color/ruby-red.webp",
+        "lgImage": "assets/images/products/infinix-smart-10-plus/color/ruby-red-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-10-plus/color/ruby-red-md.webp",
+        "smImage": "assets/images/products/infinix-smart-10-plus/color/ruby-red-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-10-plus/color/ruby-red-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10-plus",
+    "productVariantId": "iris-blue",
+    "productVariantName": "Iris Blue",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-10-plus/color/iris-blue.webp",
+        "lgImage": "assets/images/products/infinix-smart-10-plus/color/iris-blue-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-10-plus/color/iris-blue-md.webp",
+        "smImage": "assets/images/products/infinix-smart-10-plus/color/iris-blue-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-10-plus/color/iris-blue-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10-plus",
+    "productVariantId": "titanium-silver",
+    "productVariantName": "Titanium Silver",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-10-plus/color/titanium-silver.webp",
+        "lgImage": "assets/images/products/infinix-smart-10-plus/color/titanium-silver-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-10-plus/color/titanium-silver-md.webp",
+        "smImage": "assets/images/products/infinix-smart-10-plus/color/titanium-silver-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-10-plus/color/titanium-silver-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10-plus",
+    "productVariantId": "sleek-black",
+    "productVariantName": "Sleek Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-smart-10-plus/color/sleek-black.webp",
+        "lgImage": "assets/images/products/infinix-smart-10-plus/color/sleek-black-lg.webp",
+        "mdImage": "assets/images/products/infinix-smart-10-plus/color/sleek-black-md.webp",
+        "smImage": "assets/images/products/infinix-smart-10-plus/color/sleek-black-sm.webp",
+        "xsImage": "assets/images/products/infinix-smart-10-plus/color/sleek-black-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "oppo-a3x",
+    "productVariantId": "nebula-red",
+    "productVariantName": "Nebula Red",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/oppo-a3x/color/nebula-red.webp",
+        "lgImage": "assets/images/products/oppo-a3x/color/nebula-red-lg.webp",
+        "mdImage": "assets/images/products/oppo-a3x/color/nebula-red-md.webp",
+        "smImage": "assets/images/products/oppo-a3x/color/nebula-red-sm.webp",
+        "xsImage": "assets/images/products/oppo-a3x/color/nebula-red-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "oppo-a3x",
+    "productVariantId": "ocean-blue",
+    "productVariantName": "Ocean Blue",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/oppo-a3x/color/ocean-blue.webp",
+        "lgImage": "assets/images/products/oppo-a3x/color/ocean-blue-lg.webp",
+        "mdImage": "assets/images/products/oppo-a3x/color/ocean-blue-md.webp",
+        "smImage": "assets/images/products/oppo-a3x/color/ocean-blue-sm.webp",
+        "xsImage": "assets/images/products/oppo-a3x/color/ocean-blue-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "oppo-a5i",
+    "productVariantId": "nebula-red",
+    "productVariantName": "Nebula Red",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/oppo-a5i/color/nebula-red.webp",
+        "lgImage": "assets/images/products/oppo-a5i/color/nebula-red-lg.webp",
+        "mdImage": "assets/images/products/oppo-a5i/color/nebula-red-md.webp",
+        "smImage": "assets/images/products/oppo-a5i/color/nebula-red-sm.webp",
+        "xsImage": "assets/images/products/oppo-a5i/color/nebula-red-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "oppo-a5i",
+    "productVariantId": "starry-purple",
+    "productVariantName": "Starry Purple",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/oppo-a5i/color/starry-purple.webp",
+        "lgImage": "assets/images/products/oppo-a5i/color/starry-purple-lg.webp",
+        "mdImage": "assets/images/products/oppo-a5i/color/starry-purple-md.webp",
+        "smImage": "assets/images/products/oppo-a5i/color/starry-purple-sm.webp",
+        "xsImage": "assets/images/products/oppo-a5i/color/starry-purple-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "tecno-spark-40c",
+    "productVariantId": "titanium-grey",
+    "productVariantName": "Titanium Grey",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/tecno-spark-40c/color/titanium-grey.webp",
+        "lgImage": "assets/images/products/tecno-spark-40c/color/titanium-grey-lg.webp",
+        "mdImage": "assets/images/products/tecno-spark-40c/color/titanium-grey-md.webp",
+        "smImage": "assets/images/products/tecno-spark-40c/color/titanium-grey-sm.webp",
+        "xsImage": "assets/images/products/tecno-spark-40c/color/titanium-grey-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "tecno-spark-40c",
+    "productVariantId": "veil-white",
+    "productVariantName": "Veil White",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/tecno-spark-40c/color/veil-white.webp",
+        "lgImage": "assets/images/products/tecno-spark-40c/color/veil-white-lg.webp",
+        "mdImage": "assets/images/products/tecno-spark-40c/color/veil-white-md.webp",
+        "smImage": "assets/images/products/tecno-spark-40c/color/veil-white-sm.webp",
+        "xsImage": "assets/images/products/tecno-spark-40c/color/veil-white-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "tecno-spark-40c",
+    "productVariantId": "ink-black",
+    "productVariantName": "Ink Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/tecno-spark-40c/color/ink-black.webp",
+        "lgImage": "assets/images/products/tecno-spark-40c/color/ink-black-lg.webp",
+        "mdImage": "assets/images/products/tecno-spark-40c/color/ink-black-md.webp",
+        "smImage": "assets/images/products/tecno-spark-40c/color/ink-black-sm.webp",
+        "xsImage": "assets/images/products/tecno-spark-40c/color/ink-black-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "tecno-spark-go-2",
+    "productVariantId": "ink-black",
+    "productVariantName": "Ink Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/tecno-spark-go-2/color/ink-black.webp",
+        "lgImage": "assets/images/products/tecno-spark-go-2/color/ink-black-lg.webp",
+        "mdImage": "assets/images/products/tecno-spark-go-2/color/ink-black-md.webp",
+        "smImage": "assets/images/products/tecno-spark-go-2/color/ink-black-sm.webp",
+        "xsImage": "assets/images/products/tecno-spark-go-2/color/ink-black-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "tecno-spark-go-2",
+    "productVariantId": "veil-white",
+    "productVariantName": "Veil White",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/tecno-spark-go-2/color/veil-white.webp",
+        "lgImage": "assets/images/products/tecno-spark-go-2/color/veil-white-lg.webp",
+        "mdImage": "assets/images/products/tecno-spark-go-2/color/veil-white-md.webp",
+        "smImage": "assets/images/products/tecno-spark-go-2/color/veil-white-sm.webp",
+        "xsImage": "assets/images/products/tecno-spark-go-2/color/veil-white-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "tecno-spark-go-2",
+    "productVariantId": "titanium-grey",
+    "productVariantName": "Titanium Grey",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/tecno-spark-go-2/color/titanium-grey.webp",
+        "lgImage": "assets/images/products/tecno-spark-go-2/color/titanium-grey-lg.webp",
+        "mdImage": "assets/images/products/tecno-spark-go-2/color/titanium-grey-md.webp",
+        "smImage": "assets/images/products/tecno-spark-go-2/color/titanium-grey-sm.webp",
+        "xsImage": "assets/images/products/tecno-spark-go-2/color/titanium-grey-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-music-pro",
+    "productVariantId": "pop-art",
+    "productVariantName": "Pop Art",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-music-pro/color/pop-art.webp",
+        "lgImage": "assets/images/products/nubia-music-pro/color/pop-art-lg.webp",
+        "mdImage": "assets/images/products/nubia-music-pro/color/pop-art-md.webp",
+        "smImage": "assets/images/products/nubia-music-pro/color/pop-art-sm.webp",
+        "xsImage": "assets/images/products/nubia-music-pro/color/pop-art-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-music-pro",
+    "productVariantId": "melody-wave",
+    "productVariantName": "Melody Wave",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-music-pro/color/melody-wave.webp",
+        "lgImage": "assets/images/products/nubia-music-pro/color/melody-wave-lg.webp",
+        "mdImage": "assets/images/products/nubia-music-pro/color/melody-wave-md.webp",
+        "smImage": "assets/images/products/nubia-music-pro/color/melody-wave-sm.webp",
+        "xsImage": "assets/images/products/nubia-music-pro/color/melody-wave-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-neo-3",
+    "productVariantId": "cyber-silver",
+    "productVariantName": "Cyber Silver",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-neo-3/color/cyber-silver.webp",
+        "lgImage": "assets/images/products/nubia-neo-3/color/cyber-silver-lg.webp",
+        "mdImage": "assets/images/products/nubia-neo-3/color/cyber-silver-md.webp",
+        "smImage": "assets/images/products/nubia-neo-3/color/cyber-silver-sm.webp",
+        "xsImage": "assets/images/products/nubia-neo-3/color/cyber-silver-xs.webp"
+      },
+      {
+        "image": "assets/images/products/nubia-neo-3/color/cyber-silver-1.webp",
+        "lgImage": "assets/images/products/nubia-neo-3/color/cyber-silver-1-lg.webp",
+        "mdImage": "assets/images/products/nubia-neo-3/color/cyber-silver-1-md.webp",
+        "smImage": "assets/images/products/nubia-neo-3/color/cyber-silver-1-sm.webp",
+        "xsImage": "assets/images/products/nubia-neo-3/color/cyber-silver-1-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-neo-3",
+    "productVariantId": "titanium-gold",
+    "productVariantName": "Titanium Gold",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-neo-3/color/titanium-gold.webp",
+        "lgImage": "assets/images/products/nubia-neo-3/color/titanium-gold-lg.webp",
+        "mdImage": "assets/images/products/nubia-neo-3/color/titanium-gold-md.webp",
+        "smImage": "assets/images/products/nubia-neo-3/color/titanium-gold-sm.webp",
+        "xsImage": "assets/images/products/nubia-neo-3/color/titanium-gold-xs.webp"
+      },
+      {
+        "image": "assets/images/products/nubia-neo-3/color/titanium-gold-1.webp",
+        "lgImage": "assets/images/products/nubia-neo-3/color/titanium-gold-1-lg.webp",
+        "mdImage": "assets/images/products/nubia-neo-3/color/titanium-gold-1-md.webp",
+        "smImage": "assets/images/products/nubia-neo-3/color/titanium-gold-1-sm.webp",
+        "xsImage": "assets/images/products/nubia-neo-3/color/titanium-gold-1-xs.webp"
+      },
+      {
+        "image": "assets/images/products/nubia-neo-3/color/titanium-gold-2.webp",
+        "lgImage": "assets/images/products/nubia-neo-3/color/titanium-gold-2-lg.webp",
+        "mdImage": "assets/images/products/nubia-neo-3/color/titanium-gold-2-md.webp",
+        "smImage": "assets/images/products/nubia-neo-3/color/titanium-gold-2-sm.webp",
+        "xsImage": "assets/images/products/nubia-neo-3/color/titanium-gold-2-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-neo-3",
+    "productVariantId": "shadow-black",
+    "productVariantName": "Shadow Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-neo-3/color/shadow-black.webp",
+        "lgImage": "assets/images/products/nubia-neo-3/color/shadow-black-lg.webp",
+        "mdImage": "assets/images/products/nubia-neo-3/color/shadow-black-md.webp",
+        "smImage": "assets/images/products/nubia-neo-3/color/shadow-black-sm.webp",
+        "xsImage": "assets/images/products/nubia-neo-3/color/shadow-black-xs.webp"
+      },
+      {
+        "image": "assets/images/products/nubia-neo-3/color/shadow-black-1.webp",
+        "lgImage": "assets/images/products/nubia-neo-3/color/shadow-black-1-lg.webp",
+        "mdImage": "assets/images/products/nubia-neo-3/color/shadow-black-1-md.webp",
+        "smImage": "assets/images/products/nubia-neo-3/color/shadow-black-1-sm.webp",
+        "xsImage": "assets/images/products/nubia-neo-3/color/shadow-black-1-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-v70-design",
+    "productVariantId": "stone-gray",
+    "productVariantName": "Stone Gray",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-v70-design/color/stone-gray.webp",
+        "lgImage": "assets/images/products/nubia-v70-design/color/stone-gray-lg.webp",
+        "mdImage": "assets/images/products/nubia-v70-design/color/stone-gray-md.webp",
+        "smImage": "assets/images/products/nubia-v70-design/color/stone-gray-sm.webp",
+        "xsImage": "assets/images/products/nubia-v70-design/color/stone-gray-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-v70-design",
+    "productVariantId": "jade-green",
+    "productVariantName": "Jade Green",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-v70-design/color/jade-green.webp",
+        "lgImage": "assets/images/products/nubia-v70-design/color/jade-green-lg.webp",
+        "mdImage": "assets/images/products/nubia-v70-design/color/jade-green-md.webp",
+        "smImage": "assets/images/products/nubia-v70-design/color/jade-green-sm.webp",
+        "xsImage": "assets/images/products/nubia-v70-design/color/jade-green-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-v80-design",
+    "productVariantId": "midnight-black",
+    "productVariantName": "Midnight Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-v80-design/color/midnight-black.webp",
+        "lgImage": "assets/images/products/nubia-v80-design/color/midnight-black-lg.webp",
+        "mdImage": "assets/images/products/nubia-v80-design/color/midnight-black-md.webp",
+        "smImage": "assets/images/products/nubia-v80-design/color/midnight-black-sm.webp",
+        "xsImage": "assets/images/products/nubia-v80-design/color/midnight-black-xs.webp"
+      },
+      {
+        "image": "assets/images/products/nubia-v80-design/color/midnight-black-1.webp",
+        "lgImage": "assets/images/products/nubia-v80-design/color/midnight-black-1-lg.webp",
+        "mdImage": "assets/images/products/nubia-v80-design/color/midnight-black-1-md.webp",
+        "smImage": "assets/images/products/nubia-v80-design/color/midnight-black-1-sm.webp",
+        "xsImage": "assets/images/products/nubia-v80-design/color/midnight-black-1-xs.webp"
+      },
+      {
+        "image": "assets/images/products/nubia-v80-design/color/midnight-black-2.webp",
+        "lgImage": "assets/images/products/nubia-v80-design/color/midnight-black-2-lg.webp",
+        "mdImage": "assets/images/products/nubia-v80-design/color/midnight-black-2-md.webp",
+        "smImage": "assets/images/products/nubia-v80-design/color/midnight-black-2-sm.webp",
+        "xsImage": "assets/images/products/nubia-v80-design/color/midnight-black-2-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-v80-design",
+    "productVariantId": "pale-amber",
+    "productVariantName": "Pale Amber",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-v80-design/color/pale-amber.webp",
+        "lgImage": "assets/images/products/nubia-v80-design/color/pale-amber-lg.webp",
+        "mdImage": "assets/images/products/nubia-v80-design/color/pale-amber-md.webp",
+        "smImage": "assets/images/products/nubia-v80-design/color/pale-amber-sm.webp",
+        "xsImage": "assets/images/products/nubia-v80-design/color/pale-amber-xs.webp"
+      },
+      {
+        "image": "assets/images/products/nubia-v80-design/color/pale-amber-1.webp",
+        "lgImage": "assets/images/products/nubia-v80-design/color/pale-amber-1-lg.webp",
+        "mdImage": "assets/images/products/nubia-v80-design/color/pale-amber-1-md.webp",
+        "smImage": "assets/images/products/nubia-v80-design/color/pale-amber-1-sm.webp",
+        "xsImage": "assets/images/products/nubia-v80-design/color/pale-amber-1-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-v80-design",
+    "productVariantId": "celadon-cyan",
+    "productVariantName": "Celadon Cyan",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/nubia-v80-design/color/celadon-cyan.webp",
+        "lgImage": "assets/images/products/nubia-v80-design/color/celadon-cyan-lg.webp",
+        "mdImage": "assets/images/products/nubia-v80-design/color/celadon-cyan-md.webp",
+        "smImage": "assets/images/products/nubia-v80-design/color/celadon-cyan-sm.webp",
+        "xsImage": "assets/images/products/nubia-v80-design/color/celadon-cyan-xs.webp"
+      },
+      {
+        "image": "assets/images/products/nubia-v80-design/color/celadon-cyan-1.webp",
+        "lgImage": "assets/images/products/nubia-v80-design/color/celadon-cyan-1-lg.webp",
+        "mdImage": "assets/images/products/nubia-v80-design/color/celadon-cyan-1-md.webp",
+        "smImage": "assets/images/products/nubia-v80-design/color/celadon-cyan-1-sm.webp",
+        "xsImage": "assets/images/products/nubia-v80-design/color/celadon-cyan-1-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60-pro",
+    "productVariantId": "sapphire-blue",
+    "productVariantName": "Sapphire Blue",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60-pro/color/sapphire-blue.webp",
+        "lgImage": "assets/images/products/infinix-hot-60-pro/color/sapphire-blue-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60-pro/color/sapphire-blue-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60-pro/color/sapphire-blue-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60-pro/color/sapphire-blue-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60-pro",
+    "productVariantId": "sleek-black",
+    "productVariantName": "Sleek Black",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60-pro/color/sleek-black.webp",
+        "lgImage": "assets/images/products/infinix-hot-60-pro/color/sleek-black-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60-pro/color/sleek-black-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60-pro/color/sleek-black-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60-pro/color/sleek-black-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60-pro",
+    "productVariantId": "titanium-silver",
+    "productVariantName": "Titanium Silver",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60-pro/color/titanium-silver.webp",
+        "lgImage": "assets/images/products/infinix-hot-60-pro/color/titanium-silver-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60-pro/color/titanium-silver-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60-pro/color/titanium-silver-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60-pro/color/titanium-silver-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60-pro",
+    "productVariantId": "coral-tides",
+    "productVariantName": "Coral Tides",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60-pro/color/coral-tides.webp",
+        "lgImage": "assets/images/products/infinix-hot-60-pro/color/coral-tides-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60-pro/color/coral-tides-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60-pro/color/coral-tides-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60-pro/color/coral-tides-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60-pro",
+    "productVariantId": "jungle-breath",
+    "productVariantName": "Jungle Breath",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60-pro/color/jungle-breath.webp",
+        "lgImage": "assets/images/products/infinix-hot-60-pro/color/jungle-breath-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60-pro/color/jungle-breath-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60-pro/color/jungle-breath-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60-pro/color/jungle-breath-xs.webp"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60-pro",
+    "productVariantId": "orange-rose-valley",
+    "productVariantName": "Orange Rose Valley",
+    "productVariantType": "color",
+    "images": [
+      {
+        "image": "assets/images/products/infinix-hot-60-pro/color/orange-rose-valley.webp",
+        "lgImage": "assets/images/products/infinix-hot-60-pro/color/orange-rose-valley-lg.webp",
+        "mdImage": "assets/images/products/infinix-hot-60-pro/color/orange-rose-valley-md.webp",
+        "smImage": "assets/images/products/infinix-hot-60-pro/color/orange-rose-valley-sm.webp",
+        "xsImage": "assets/images/products/infinix-hot-60-pro/color/orange-rose-valley-xs.webp"
+      }
+    ]
+  }
+]

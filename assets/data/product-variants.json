@@ -1,0 +1,641 @@
+[
+  {
+    "productId": "infinix-hot-50i",
+    "variants": [
+      {
+        "id": "dreamy-purple",
+        "name": "Dreamy Purple",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-50i/dreamy-purple.webp"
+        ]
+      },
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-50i/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "sage-green",
+        "name": "Sage Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-50i/sage-green.webp"
+        ]
+      },
+      {
+        "id": "titanium-grey",
+        "name": "Titanium Grey",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-50i/titanium-grey.webp"
+        ]
+      },
+      {
+        "id": "8gb-256gb",
+        "name": "8GB RAM + 256GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "variants": [
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "titanium-silver",
+        "name": "Titanium Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/titanium-silver.webp"
+        ]
+      },
+      {
+        "id": "shadow-blue",
+        "name": "Shadow Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/shadow-blue.webp"
+        ]
+      },
+      {
+        "id": "meadow-green",
+        "name": "Meadow Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/meadow-green.webp"
+        ]
+      },
+      {
+        "id": "neon-red",
+        "name": "Neon Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/neon-red.webp"
+        ]
+      },
+      {
+        "id": "soul-eye-purple",
+        "name": "Soul Eye Purple",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/soul-eye-purple.webp"
+        ]
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "8gb-256gb",
+        "name": "8GB RAM + 256GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60i-5g",
+    "variants": [
+      {
+        "id": "shadow-blue",
+        "name": "Shadow Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i-5g/shadow-blue.webp"
+        ]
+      },
+      {
+        "id": "monsoon-green",
+        "name": "Monsoon Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i-5g/monsoon-green.webp"
+        ]
+      },
+      {
+        "id": "plum-red",
+        "name": "Plum Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i-5g/plum-red.webp"
+        ]
+      },
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i-5g/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-9",
+    "variants": [
+      {
+        "id": "metallic-black",
+        "name": "Metallic Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-9/metallic-black.webp"
+        ]
+      },
+      {
+        "id": "mint-green",
+        "name": "Mint Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-9/mint-green.webp"
+        ]
+      },
+      {
+        "id": "neo-titanium",
+        "name": "Neo Titanium",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-9/neo-titanium.webp"
+        ]
+      },
+      {
+        "id": "sandstone-gold",
+        "name": "Sandstone Gold",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-9/sandstone-gold.webp"
+        ]
+      },
+      {
+        "id": "3gb-64gb",
+        "name": "3GB RAM + 64GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "4gb-64gb",
+        "name": "4GB RAM + 64GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "3gb-128gb",
+        "name": "3GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10",
+    "variants": [
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "titanium-silver",
+        "name": "Titanium Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10/titanium-silver.webp"
+        ]
+      },
+      {
+        "id": "twilight-gold",
+        "name": "Twilight Gold",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10/twilight-gold.webp"
+        ]
+      },
+      {
+        "id": "iris-blue",
+        "name": "Iris Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10/iris-blue.webp"
+        ]
+      },
+      {
+        "id": "3gb-64gb",
+        "name": "3GB RAM + 64GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "4gb-64gb",
+        "name": "4GB RAM + 64GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-smart-10-plus",
+    "variants": [
+      {
+        "id": "ruby-red",
+        "name": "Ruby Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10-plus/ruby-red.webp"
+        ]
+      },
+      {
+        "id": "iris-blue",
+        "name": "Iris Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10-plus/iris-blue.webp"
+        ]
+      },
+      {
+        "id": "titanium-silver",
+        "name": "Titanium Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10-plus/titanium-silver.webp"
+        ]
+      },
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10-plus/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "infinix-hot-60-pro",
+    "variants": [
+      {
+        "id": "sapphire-blue",
+        "name": "Sapphire Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/sapphire-blue.webp"
+        ]
+      },
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "titanium-silver",
+        "name": "Titanium Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/titanium-silver.webp"
+        ]
+      },
+      {
+        "id": "coral-tides",
+        "name": "Coral Tides",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/coral-tides.webp"
+        ]
+      },
+      {
+        "id": "jungle-breath",
+        "name": "Jungle Breath",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/jungle-breath.webp"
+        ]
+      },
+      {
+        "id": "orange-rose-valley",
+        "name": "Orange Rose Valley",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/orange-rose-valley.webp"
+        ]
+      },
+      {
+        "id": "8gb-256gb",
+        "name": "8GB RAM + 256GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "oppo-a3x",
+    "variants": [
+      {
+        "id": "nebula-red",
+        "name": "Nebula Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/oppo-a3x/nebula-red.webp"
+        ]
+      },
+      {
+        "id": "ocean-blue",
+        "name": "Ocean Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/oppo-a3x/ocean-blue.webp"
+        ]
+      },
+      {
+        "id": "4gb-64gb",
+        "name": "4GB RAM + 64GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "oppo-a5i",
+    "variants": [
+      {
+        "id": "nebula-red",
+        "name": "Nebula Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/oppo-a5i/nebula-red.webp"
+        ]
+      },
+      {
+        "id": "starry-purple",
+        "name": "Starry Purple",
+        "type": "color",
+        "images": [
+          "assets/images/products/oppo-a5i/starry-purple.webp"
+        ]
+      },
+      {
+        "id": "4gb-64gb",
+        "name": "4GB RAM + 64GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "tecno-spark-40c",
+    "variants": [
+      {
+        "id": "titanium-grey",
+        "name": "Titanium Grey",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-40c/titanium-grey.webp"
+        ]
+      },
+      {
+        "id": "veil-white",
+        "name": "Veil White",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-40c/veil-white.webp"
+        ]
+      },
+      {
+        "id": "ink-black",
+        "name": "Ink Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-40c/ink-black.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "tecno-spark-go-2",
+    "variants": [
+      {
+        "id": "ink-black",
+        "name": "Ink Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-go-2/ink-black.webp"
+        ]
+      },
+      {
+        "id": "veil-white",
+        "name": "Veil White",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-go-2/veil-white.webp"
+        ]
+      },
+      {
+        "id": "titanium-grey",
+        "name": "Titanium Grey",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-go-2/titanium-grey.webp"
+        ]
+      },
+      {
+        "id": "3gb-64gb",
+        "name": "3GB RAM + 64GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "3gb-128gb",
+        "name": "3GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-music-pro",
+    "variants": [
+      {
+        "id": "pop-art",
+        "name": "Pop Art",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-music-pro/pop-art.webp"
+        ]
+      },
+      {
+        "id": "melody-wave",
+        "name": "Melody Wave",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-music-pro/melody-wave.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-neo-3",
+    "variants": [
+      {
+        "id": "cyber-silver",
+        "name": "Cyber Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-neo-3/cyber-silver.webp",
+          "assets/images/products/nubia-neo-3/cyber-silver-1.webp"
+        ]
+      },
+      {
+        "id": "titanium-gold",
+        "name": "Titanium Gold",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-neo-3/titanium-gold.webp",
+          "assets/images/products/nubia-neo-3/titanium-gold-1.webp",
+          "assets/images/products/nubia-neo-3/titanium-gold-2.webp"
+        ]
+      },
+      {
+        "id": "shadow-black",
+        "name": "Shadow Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-neo-3/shadow-black.webp",
+          "assets/images/products/nubia-neo-3/shadow-black-1.webp"
+        ]
+      },
+      {
+        "id": "8gb-128gb",
+        "name": "8GB RAM + 128GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-v70-design",
+    "variants": [
+      {
+        "id": "stone-gray",
+        "name": "Stone Gray",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v70-design/stone-gray.webp"
+        ]
+      },
+      {
+        "id": "jade-green",
+        "name": "Jade Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v70-design/jade-green.webp"
+        ]
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "nubia-v80-design",
+    "variants": [
+      {
+        "id": "midnight-black",
+        "name": "Midnight Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v80-design/midnight-black.webp",
+          "assets/images/products/nubia-v80-design/midnight-black-1.webp",
+          "assets/images/products/nubia-v80-design/midnight-black-2.webp"
+        ]
+      },
+      {
+        "id": "pale-amber",
+        "name": "Pale Amber",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v80-design/pale-amber.webp",
+          "assets/images/products/nubia-v80-design/pale-amber-1.webp"
+        ]
+      },
+      {
+        "id": "celadon-cyan",
+        "name": "Celadon Cyan",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v80-design/celadon-cyan.webp",
+          "assets/images/products/nubia-v80-design/celadon-cyan-1.webp"
+        ]
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom"
+      },
+      {
+        "id": "8gb-256gb",
+        "name": "8GB RAM + 256GB ROM",
+        "type": "ram-rom"
+      }
+    ]
+  },
+  {
+    "productId": "nvision-smart-tv",
+    "variants": [
+      {
+        "id": "s43md",
+        "name": "S43MD | 43\"",
+        "type": "model"
+      }
+    ]
+  }
+]

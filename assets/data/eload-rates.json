@@ -1,0 +1,68 @@
+[
+  {
+    "amountFrom": 1.0,
+    "amountTo": 49.0,
+    "fee": 3.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 50.0,
+    "amountTo": 99.0,
+    "fee": 5.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 100.0,
+    "amountTo": 199.0,
+    "fee": 10.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 200.0,
+    "amountTo": 299.0,
+    "fee": 15.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 300.0,
+    "amountTo": 399.0,
+    "fee": 20.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 400.0,
+    "amountTo": 499.0,
+    "fee": 25.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 500.0,
+    "amountTo": 599.0,
+    "fee": 30.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 600.0,
+    "amountTo": 699.0,
+    "fee": 35.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 700.0,
+    "amountTo": 799.0,
+    "fee": 40.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 800.0,
+    "amountTo": 899.0,
+    "fee": 45.0,
+    "isFixed": true
+  },
+  {
+    "amountFrom": 900.0,
+    "amountTo": 1000.0,
+    "fee": 50.0,
+    "isFixed": true
+  }
+]

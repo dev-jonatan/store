@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  background-color: #121212;
+  color: #FAFAFA;
+
+  font-size: 0.65em;
+  line-height: 1.5em;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-optical-sizing: auto;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: whitesmoke;
+  font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter Tight", "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-optical-sizing: auto;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2em;
+
+  padding: 1em;
+  text-align: center;
+  overflow: hidden;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  width: 100%;
+  transform: translate(-50%, -50%);
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+
+  white-space: pre-line;
+
+  #link {
+    font-size: 0.8em;
+    color: gray;
+
+    &.hide {
+      display: none;
+    }
+  }
+}
+
+.button {
+  padding: 0.8em 1em;
+  min-width: 10em;
+  border: none;
+  border-radius: 0.8em;
+  background: #FAFAFA;
+
+  @supports(corner-shape: squircle) {
+    corner-shape: squircle;
+    border-radius: 1.6em;
+  }
+}
+
+#redirect-button {
+  display: none;
+
+  &.visible {
+    display: unset;
+  }
+}

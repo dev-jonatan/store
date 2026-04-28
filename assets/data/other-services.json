@@ -1,0 +1,34 @@
+[
+  {
+    "id": "gcash",
+    "description": "GCash"
+  },
+  {
+    "id": "eload",
+    "description": "E-Load"
+  },
+  {
+    "id": "cashloan",
+    "description": "Cash Loan"
+  },
+  {
+    "id": "mobile-phone-repair",
+    "description": "Mobile Phone Repair"
+  },
+  {
+    "id": "app-dev",
+    "description": "Desktop App Development"
+  },
+  {
+    "id": "web-dev",
+    "description": "Web App Development"
+  },
+  {
+    "id": "ms-windows",
+    "description": "MS Windows Installation and Activation"
+  },
+  {
+    "id": "ms-office",
+    "description": "MS Office Installation and Activation"
+  }
+]

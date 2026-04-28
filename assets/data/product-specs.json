@@ -1,0 +1,838 @@
+[
+  {
+    "productId": "infinix-hot-50i",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2024-09-23",
+      "released": "2024-10-01"
+    },
+    "body": {
+      "dimensions": "165.7 x 77.1 x 8.1 mm (6.52 x 3.04 x 0.32 in)",
+      "weight": "184 g (6.49 oz)",
+      "build": "Glass front, plastic back, plastic frame",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP54 dust protected and water resistant (water splashes)"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz, 500 nits (peak)",
+      "size": "6.7 inches, 108.4 cm² (~84.8% screen-to-body ratio)",
+      "resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+    },
+    "platform": {
+      "os": "Android 14, XOS 14.5",
+      "chipset": "Mediatek Helio G81",
+      "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+      "gpu": "Mali-G52 MC2"
+    },
+    "memory": {
+      "cardSlot": "microSDXC (dedicated slot)",
+      "internal": "256GB 8GB RAM"
+    },
+    "mainCamera": {
+      "single": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, AF\nAuxiliary lens",
+      "features": "Dual-LED flash, HDR, panorama",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+      "video": "Yes"
+    },
+    "sound": {
+      "loudspeaker": "Yes, with stereo speakers",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "Yes",
+      "Positioning": "GPS",
+      "nfc": "No",
+      "radio": "FM radio",
+      "usb": "USB Type-C 2.0, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "battery": {
+      "type": "5000 mAh",
+      "charging": "18W wired\nReverse wired\nBypass charging"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/infinix_hot_50i-13375.php"
+    }
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2025-07-02",
+      "released": "2025-07-02"
+    },
+    "body": {
+      "dimensions": "166 x 76.6 x 7.7 mm (6.54 x 3.02 x 0.30 in)",
+      "weight": "188 g (6.63 oz)",
+      "build": "Glass front, plastic back, plastic frame",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.5m"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz, 700 nits (HBM)",
+      "size": "6.7 inches, 108.4 cm² (~85.2% screen-to-body ratio)",
+      "resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+    },
+    "platform": {
+      "os": "Android 15, XOS 15.1",
+      "chipset": "Mediatek Helio G81 Ultimate (12 nm)",
+      "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+      "gpu": "Mali-G52 MC2"
+    },
+    "memory": {
+      "cardSlot": "microSDXC (dedicated slot)",
+      "internal": "256GB 4GB RAM\n256GB 8GB RAM\neMMC5.1"
+    },
+    "mainCamera": {
+      "single": "50 MP, (wide), AF\nAuxiliary lens",
+      "features": "Dual-LED flash, HDR, panorama",
+      "video": "1440p@30fps, 1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "8 MP, (wide)",
+      "video": "Yes"
+    },
+    "sound": {
+      "loudspeaker": "Yes, with stereo speakers",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "5.3, A2DP, LE",
+      "Positioning": "GPS",
+      "nfc": "Yes (data transfer only; not for payments - market/region dependent)",
+      "radio": "Yes",
+      "usb": "FM radio"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+    },
+    "battery": {
+      "type": "5160 mAh",
+      "charging": "45W wired, 50% in 24 min\n10W reverse wired\nBypass charging"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/infinix_hot_60i-13983.php"
+    }
+  },
+  {
+    "productId": "infinix-hot-60i-5g",
+    "network": {
+      "technology": "GSM / HSPA / LTE / 5G"
+    },
+    "launch": {
+      "announced": "2025-08-16",
+      "released": "2025-08-21"
+    },
+    "body": {
+      "dimensions": "167.4 x 77.7 x 8.1 mm (6.59 x 3.06 x 0.32 in)",
+      "weight": "199 g (7.02 oz)",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.5m"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz, 560 nits (typ), 670 nits (HBM)",
+      "size": "6.75 inches, 110.0 cm² (~84.6% screen-to-body ratio)",
+      "resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+    },
+    "platform": {
+      "os": "Android 15, XOS 15.1",
+      "chipset": "Mediatek Dimensity 6400 (6 nm)",
+      "cpu": "Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G57 MC2"
+    },
+    "memory": {
+      "cardSlot": "microSDXC (dedicated slot)",
+      "internal": "128GB 4GB RAM\neMMC"
+    },
+    "mainCamera": {
+      "single": "50 MP, f/1.6, (wide), AF\nAuxiliary lens",
+      "features": "Dual-LED flash, HDR, panorama",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "5 MP, f/2.0, (wide)",
+      "video": "1080p@30fps"
+    },
+    "sound": {
+      "loudspeaker": "Yes, with stereo speakers",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS",
+      "nfc": "Yes",
+      "infraredPort": "Yes",
+      "radio": "Yes",
+      "usb": "USB Type-C 2.0, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "battery": {
+      "type": "6000 mAh",
+      "charging": "18W wired\n10W reverse wired\nBypass charging"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/infinix_hot_60i_5g-14072.php"
+    }
+  },
+  {
+    "productId": "infinix-smart-10",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2025-06-16",
+      "released": "2025-06-16"
+    },
+    "body": {
+      "dimensions": "165.6 x 77 x 8.3 mm (6.52 x 3.03 x 0.33 in)",
+      "weight": "187 g (6.60 oz)",
+      "build": "Glass front, plastic back, plastic frame",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.5m"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz, 700 nits (HBM)",
+      "size": "6.67 inches, 107.4 cm² (~84.2% screen-to-body ratio)",
+      "resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+    },
+    "platform": {
+      "os": "Android 15/15 (Go edition), XOS 15.1",
+      "chipset": "Unisoc T7250 (12 nm)",
+      "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "gpu": "Mali-G57 MP1"
+    },
+    "memory": {
+      "cardSlot": "microSDXC (dedicated slot)",
+      "internal": "64GB 3GB RAM\n64GB 4GB RAM\n128GB 4GB RAM\n256GB 4GB RAM\neMMC 5.1"
+    },
+    "mainCamera": {
+      "single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm, AF",
+      "features": "Dual-LED flash, panorama",
+      "video": "1440p@30fps, 1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+      "video": "1440p@30fps, 1080p@30fps"
+    },
+    "sound": {
+      "loudspeaker": "Yes, with stereo speakers",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "Yes",
+      "Positioning": "GPS",
+      "nfc": "Yes (data transfer only; not for payments - market/region dependent)",
+      "infraredPort": "Yes",
+      "radio": "FM radio",
+      "usb": "USB Type-C 2.0, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "battery": {
+      "type": "5000 mAh",
+      "charging": "15W wired\nReverse wired"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/infinix_smart_10-13933.php"
+    }
+  },
+  {
+    "productId": "infinix-smart-10-plus",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2025-06-16",
+      "released": "2025-06-16"
+    },
+    "body": {
+      "dimensions": "165.6 x 77 x 8 mm (6.52 x 3.03 x 0.31 in)",
+      "weight": "198 g (6.98 oz)",
+      "build": "Glass front, plastic back, plastic frame",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.5m"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz, 700 nits (HBM)",
+      "size": "6.67 inches, 107.4 cm² (~84.2% screen-to-body ratio)",
+      "resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+    },
+    "platform": {
+      "os": "Android 15, XOS 15.1",
+      "chipset": "Unisoc T7250 (12 nm)",
+      "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "gpu": "Mali-G57 MP1"
+    },
+    "memory": {
+      "cardSlot": "microSDXC (dedicated slot)",
+      "internal": "128GB 4GB RAM\neMMC 5.1"
+    },
+    "mainCamera": {
+      "single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm, AF",
+      "features": "Dual-LED flash, panorama",
+      "video": "1440p@30fps, 1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+      "video": "1440p@30fps, 1080p@30fps"
+    },
+    "sound": {
+      "loudspeaker": "Yes, with stereo speakers",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "Yes",
+      "Positioning": "GPS",
+      "nfc": "Yes (data transfer only; not for payments - market/region dependent)",
+      "infraredPort": "Yes",
+      "radio": "FM radio",
+      "usb": "USB Type-C 2.0, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "battery": {
+      "type": "6000 mAh",
+      "charging": "18W wired\nReverse wired"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/infinix_smart_10_plus-13953.php"
+    }
+  },
+  {
+    "productId": "infinix-smart-9",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2024-09-23",
+      "released": "2024-10-01"
+    },
+    "body": {
+      "dimensions": "165.7 x 77.1 x 8.4 mm (6.52 x 3.04 x 0.33 in)",
+      "weight": "188 g (6.63 oz)",
+      "build": "Glass front, plastic back, plastic frame",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP54 dust protected and water resistant (water splashes)"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz, 500 nits (peak)",
+      "size": "6.7 inches, 108.4 cm² (~84.8% screen-to-body ratio)",
+      "resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+    },
+    "platform": {
+      "os": "Android 14 (Go edition), XOS 14",
+      "chipset": "Mediatek Helio G81",
+      "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+      "gpu": "Mali-G52 MC2"
+    },
+    "memory": {
+      "cardSlot": "microSDXC (dedicated slot)",
+      "internal": "64GB 3GB RAM\n64GB 4GB RAM\n128GB 3GB RAM"
+    },
+    "mainCamera": {
+      "single": "13 MP, f/1.9, 27mm (wide), 1/3.07\", 1.12µm, AF\nAuxiliary lens",
+      "features": "LED flash, HDR, panorama",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "8 MP, f/2.0, 26mm (wide), 1/3.96\", 1.12µm",
+      "video": "Yes"
+    },
+    "sound": {
+      "loudspeaker": "Yes, with stereo speakers",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "Yes",
+      "Positioning": "GPS",
+      "nfc": "No",
+      "infraredPort": "Yes",
+      "radio": "FM radio",
+      "usb": "USB Type-C 2.0, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "battery": {
+      "type": "5000 mAh",
+      "charging": "10W wired\nReverse wired"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/infinix_smart_9-13374.php"
+    }
+  },
+  {
+    "productId": "nubia-music-pro",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2024-02-28",
+      "released": "2024-05-01"
+    },
+    "body": {
+      "dimensions": "163.6 x 74.9 x 8.6 mm (6.44 x 2.95 x 0.34 in)",
+      "weight": "199 g (7.02 oz)",
+      "sim": "Nano-SIM + Nano-SIM"
+    },
+    "display": {
+      "type": "IPS LCD, 90Hz",
+      "size": "6.6 inches, 104.6 cm² (~85.4% screen-to-body ratio)",
+      "resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+    },
+    "platform": {
+      "os": "Android 13",
+      "chipset": "Unisoc SC9863A (28 nm)",
+      "cpu": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+      "gpu": "IMG8322"
+    },
+    "memory": {
+      "cardSlot": "microSDXC (uses shared SIM slot)",
+      "internal": "128GB 4GB RAM\neMMC 5.1"
+    },
+    "mainCamera": {
+      "single": "50 MP, f/1.9, (wide), PDAF\nAuxiliary lens",
+      "features": "LED flash, HDR",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "5 MP, f/2.4, (wide)",
+      "video": "720p@30fps"
+    },
+    "sound": {
+      "loudspeaker": "Yes",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 b/g/n",
+      "bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS",
+      "nfc": "Yes (market/region dependent)",
+      "radio": "Wireless FM radio",
+      "usb": "USB Type-C 2.0, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer"
+    },
+    "battery": {
+      "type": "5000 mAh",
+      "charging": "10W wired"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/zte_nubia_music-12851.php"
+    }
+  },
+  {
+    "productId": "nubia-v70-design",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2024-11-22",
+      "released": "2024-11-28"
+    },
+    "body": {
+      "dimensions": "165.8 x 77.1 x 8.2 mm (6.53 x 3.04 x 0.32 in)",
+      "weight": "206 g (7.27 oz)",
+      "build": "Glass front, plastic frame, glass back or silicone polymer (eco leather) back",
+      "sim": "Nano-SIM + Nano-SIM"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz",
+      "size": "6.7 inches, 107.8 cm² (~84.4% screen-to-body ratio)",
+      "resolution": "720 x 1612 pixels, 20:9 ratio (~264 ppi density)",
+      "protection": "Mohs level 4"
+    },
+    "platform": {
+      "os": "Android 14",
+      "chipset": "Unisoc T606 (12 nm)",
+      "cpu": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "gpu": "Mali-G57 MP1"
+    },
+    "memory": {
+      "cardSlot": "microSDXC (uses shared SIM slot)",
+      "internal": "256GB 4GB RAM"
+    },
+    "mainCamera": {
+      "dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "features": "LED flash, HDR, panorama",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "16 MP",
+      "video": "1080p@30fps"
+    },
+    "sound": {
+      "loudspeaker": "Yes",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS",
+      "nfc": "Yes (market/region dependent)",
+      "radio": "FM radio",
+      "usb": "USB Type-C 2.0"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "battery": {
+      "type": "5000 mAh",
+      "charging": "22.5W wired"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/zte_blade_v70_design-13513.php"
+    }
+  },
+  {
+    "productId": "nubia-v80-design",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2025-11-10",
+      "released": "2025-11-10"
+    },
+    "body": {
+      "dimensions": "166 x 79 x 7.7 mm (6.54 x 3.11 x 0.30 in)",
+      "weight": "191 g (6.74 oz)",
+      "build": "Glass front, plastic frame",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP64 dust tight and water resistant (water splashes)"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz, 1000 nits (HBM)",
+      "size": "6.75 inches, 112.2 cm² (~85.6% screen-to-body ratio)",
+      "resolution": "900 x 1940 pixels, 19.5:9 ratio (~317 ppi density)"
+    },
+    "platform": {
+      "os": "Android 16",
+      "chipset": "Unisoc T7280 (12 nm)",
+      "cpu": "Octa-core (2x2.2 GHz Cortex-A75 & 6x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G57 MP1"
+    },
+    "memory": {
+      "cardSlot": "Unspecified",
+      "internal": "256GB 8GB RAM\n256GB 4GB RAM"
+    },
+    "mainCamera": {
+      "dual": "50 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+      "features": "LED flash, HDR, panorama",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "16 MP",
+      "video": "1080p@30fps"
+    },
+    "sound": {
+      "loudspeaker": "Yes",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "5.2, A2DP, LE",
+      "Positioning": "GPS, GALILEO, GLONASS",
+      "nfc": "Yes (market/region dependent)",
+      "radio": "Unspecified",
+      "usb": "USB Type-C 2.0, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "battery": {
+      "type": "5000 mAh",
+      "charging": "22.5W wired\n10W reverse wired"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/zte_blade_v80_design-14291.php"
+    }
+  },
+  {
+    "productId": "oppo-a3x",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2024-08-20",
+      "released": "2024-08-20"
+    },
+    "body": {
+      "dimensions": "165.8 x 76.1 x 7.7 mm (6.53 x 3.00 x 0.30 in)",
+      "weight": "186 g (6.56 oz)",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP54 dust protected and water resistant (water splashes)\nMIL-STD-810H compliant*\n* does not guarantee ruggedness or use in extreme conditions"
+    },
+    "display": {
+      "type": "IPS LCD, 90Hz, 1000 nits (HBM)",
+      "size": "6.67 inches, 107.2 cm² (~85.0% screen-to-body ratio)",
+      "resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)",
+      "protection": "Panda glass"
+    },
+    "platform": {
+      "os": "Android 14, upgradable to Android 15, ColorOS 15",
+      "chipset": "Qualcomm SM-6115 Snapdragon 6s 4G Gen1 (11 nm)",
+      "cpu": "Octa-core (4x2.1 GHz Cortex-A73 & 4x1.8 GHz Cortex-A53)",
+      "gpu": "Adreno 610"
+    },
+    "memory": {
+      "cardSlot": "microSDXC",
+      "internal": "64GB 4GB RAM\n128GB 4GB RAM\neMMC 5.1"
+    },
+    "mainCamera": {
+      "dual": "8 MP, f/2.0, 26mm (wide), 1/3.94\", PDAF\nAuxiliary lens",
+      "features": "LED flash, HDR, panorama",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "5 MP, f/2.2, 27mm (wide), 1/4.96\"",
+      "video": "1080p@30fps"
+    },
+    "sound": {
+      "loudspeaker": "Yes",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "5.0, A2DP, LE, aptX",
+      "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+      "nfc": "No",
+      "radio": "Unspecified",
+      "usb": "USB Type-C 2.0, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+    },
+    "battery": {
+      "type": "5100 mAh",
+      "charging": "45W wired, PD2.0, PPS, 50% in 30 min"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/oppo_a3x_4g-13261.php"
+    }
+  },
+  {
+    "productId": "tecno-spark-40c",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2025-07-19",
+      "released": "2025-08-01"
+    },
+    "body": {
+      "dimensions": "165.6 x 77 x 8.4 mm (6.52 x 3.03 x 0.33 in)",
+      "build": "Glass front, plastic back, plastic frame",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.5m"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz",
+      "size": "6.67 inches, 107.4 cm² (~84.2% screen-to-body ratio)",
+      "resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+    },
+    "platform": {
+      "os": "Android 15, HIOS 15.1",
+      "chipset": "Mediatek Helio G81 (12 nm)",
+      "cpu": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+      "gpu": "Mali-G52 MC2"
+    },
+    "memory": {
+      "cardSlot": "Unspecified",
+      "internal": "128GB 4GB RAM\n128GB 8GB RAM\n256GB 8GB RAM"
+    },
+    "mainCamera": {
+      "single": "13 MP, f/1.8, 27mm (wide), PDAF",
+      "features": "Dual-LED flash, HDR",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "8 MP",
+      "video": "Yes"
+    },
+    "sound": {
+      "loudspeaker": "Yes, with dual speakers",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Yes",
+      "bluetooth": "Yes",
+      "Positioning": "GPS",
+      "nfc": "No",
+      "infraredPort": "Yes",
+      "radio": "FM radio",
+      "usb": "USB Type-C, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted); unspecified sensors"
+    },
+    "battery": {
+      "type": "6000 mAh",
+      "charging": "18W wired"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/tecno_spark_40c-14052.php"
+    }
+  },
+  {
+    "productId": "tecno-spark-go-2",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2025-06-24",
+      "released": "2025-06-24"
+    },
+    "body": {
+      "dimensions": "165.6 x 77 x 8.3 mm (6.52 x 3.03 x 0.33 in)",
+      "build": "Glass front, plastic back, plastic frame",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.5m"
+    },
+    "display": {
+      "type": "IPS LCD, 120Hz",
+      "size": "6.67 inches, 107.4 cm² (~84.2% screen-to-body ratio)",
+      "resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+    },
+    "platform": {
+      "os": "Android 15, HIOS 15",
+      "chipset": "Unisoc T7250 (12 nm)",
+      "cpu": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+      "gpu": "Mali-G57 MP1"
+    },
+    "memory": {
+      "cardSlot": "microSDXC",
+      "internal": "64GB 3GB RAM\n128GB 3GB RAM\n256GB 4GB RAM\neMMC 5.1"
+    },
+    "mainCamera": {
+      "single": "13 MP, f/1.8, 27mm (wide), PDAF",
+      "features": "Dual-LED flash, HDR",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "single": "8 MP",
+      "features": "Dual-LED flash",
+      "video": "Yes"
+    },
+    "sound": {
+      "loudspeaker": "Yes, with dual speakers",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Yes",
+      "bluetooth": "Yes",
+      "Positioning": "GPS",
+      "nfc": "No",
+      "infraredPort": "Yes",
+      "radio": "FM radio",
+      "usb": "USB Type-C, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (side-mounted); unspecified sensors"
+    },
+    "battery": {
+      "type": "5000 mAh",
+      "charging": "15W wired"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/tecno_spark_go_2-13975.php"
+    }
+  },
+  {
+    "productId": "infinix-hot-60-pro",
+    "network": {
+      "technology": "GSM / HSPA / LTE"
+    },
+    "launch": {
+      "announced": "2025-07-10",
+      "released": "2025-07-13"
+    },
+    "body": {
+      "dimensions": "163.5 x 75.9 x 6.6 mm (6.44 x 2.99 x 0.26 in)",
+      "weight": "170 g (6.00 oz)",
+      "build": "Glass front (Gorilla Glass 7i), plastic back, plastic frame",
+      "sim": "Nano-SIM + Nano-SIM",
+      "features": "IP64 dust tight and water resistant (water splashes)\nDrop resistant up to 1.5m"
+    },
+    "display": {
+      "type": "AMOLED, 144Hz, 2160Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+      "size": "6.78 inches, 111.0 cm² (~89.4% screen-to-body ratio)",
+      "resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+      "protection": "Corning Gorilla Glass 7i"
+    },
+    "platform": {
+      "os": "Android 15, up to 3 major Android upgrades, XOS 15.1",
+      "chipset": "Mediatek Helio G200 (6 nm)",
+      "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G57 MC2 (1.1GHz)"
+    },
+    "memory": {
+      "cardSlot": "microSDXC (dedicated slot)",
+      "internal": "128GB 8GB RAM\n256GB 8GB RAM\nUFS 2.2"
+    },
+    "mainCamera": {
+      "single": "50 MP, f/1.6, 27mm (wide), 1/2.8\", 0.64µm, PDAF\nAuxiliary lens",
+      "features": "Dual-LED flash, HDR, panorama",
+      "video": "1440p@30fps, 1080p@30/60fps"
+    },
+    "selfieCamera": {
+      "single": "13 MP, f/2.2, 24mm (wide), 1/3.1\", 1.12µm",
+      "video": "1440p@30fps, 1080p@30/60fps"
+    },
+    "sound": {
+      "loudspeaker": "Yes, with stereo speakers",
+      "port": "3.5mm jack"
+    },
+    "communications": {
+      "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+      "bluetooth": "5.4, A2DP, LE",
+      "Positioning": "GPS",
+      "nfc": "Yes",
+      "infraredPort": "Yes",
+      "radio": "FM radio",
+      "usb": "USB Type-C 2.0, OTG"
+    },
+    "features": {
+      "sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    },
+    "battery": {
+      "type": "5160 mAh",
+      "charging": "45W wired, 50% in 22 min\n10W reverse wired"
+    },
+    "source": {
+      "name": "GSMArena.com",
+      "url": "https://www.gsmarena.com/infinix_hot_60_pro-14003.php"
+    }
+  }
+]

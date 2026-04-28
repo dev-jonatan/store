@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1-month",
+    "termMonths": 1,
+    "minAmount": 500,
+    "maxAmount": 5000
+  },
+  {
+    "id": "3-months",
+    "termMonths": 3,
+    "minAmount": 1000
+  },
+  {
+    "id": "6-months",
+    "termMonths": 6,
+    "minAmount": 3000
+  },
+  {
+    "id": "9-month",
+    "termMonths": 9,
+    "minAmount": 5000
+  },
+  {
+    "id": "12-months",
+    "termMonths": 12,
+    "minAmount": 5000
+  }
+]

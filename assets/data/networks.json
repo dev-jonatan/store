@@ -1,0 +1,37 @@
+[
+  {
+    "code": "smart",
+    "description": "SMART",
+    "logoPath": "assets/images/eload/smart-logo.webp"
+  },
+  {
+    "code": "tnt",
+    "description": "TNT",
+    "logoPath": "assets/images/eload/tnt-logo.webp"
+  },
+  {
+    "code": "globe",
+    "description": "Globe",
+    "logoPath": "assets/images/eload/globe-logo.webp"
+  },
+  {
+    "code": "tm",
+    "description": "TM",
+    "logoPath": "assets/images/eload/tm-logo.webp"
+  },
+  {
+    "code": "dito",
+    "description": "DITO",
+    "logoPath": "assets/images/eload/dito-logo.webp"
+  },
+  {
+    "code": "pldt-home-wifi",
+    "description": "PLDT Home WiFi",
+    "logoPath": "assets/images/eload/pldt-home-wifi-logo.webp"
+  },
+  {
+    "code": "cignal",
+    "description": "Cignal",
+    "logoPath": "assets/images/eload/cignal-logo.webp"
+  }
+]

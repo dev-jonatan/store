@@ -1,0 +1,272 @@
+[
+  {
+    "productId": "infinix-hot-50i",
+    "productVariantId": "8gb-256gb",
+    "productVariantName": "8GB RAM + 256GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2798.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "productVariantId": "4gb-256gb",
+    "productVariantName": "4GB RAM + 256GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2395.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-hot-60i",
+    "productVariantId": "8gb-256gb",
+    "productVariantName": "8GB RAM + 256GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2815.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-hot-60i-5g",
+    "productVariantId": "4gb-128gb",
+    "productVariantName": "4GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2496.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-smart-9",
+    "productVariantId": "3gb-64gb",
+    "productVariantName": "3GB RAM + 64GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1506.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-smart-9",
+    "productVariantId": "4gb-64gb",
+    "productVariantName": "4GB RAM + 64GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1673.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-smart-9",
+    "productVariantId": "3gb-128gb",
+    "productVariantName": "3GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1919.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-smart-10",
+    "productVariantId": "3gb-64gb",
+    "productVariantName": "3GB RAM + 64GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1405.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-smart-10",
+    "productVariantId": "4gb-64gb",
+    "productVariantName": "4GB RAM + 64GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1507.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-smart-10",
+    "productVariantId": "4gb-128gb",
+    "productVariantName": "4GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1761.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-smart-10",
+    "productVariantId": "4gb-256gb",
+    "productVariantName": "4GB RAM + 256GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2018.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-smart-10-plus",
+    "productVariantId": "4gb-128gb",
+    "productVariantName": "4GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1891.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "oppo-a3x",
+    "productVariantId": "4gb-64gb",
+    "productVariantName": "4GB RAM + 64GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1348.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "oppo-a3x",
+    "productVariantId": "4gb-128gb",
+    "productVariantName": "4GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1771.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "oppo-a5i",
+    "productVariantId": "4gb-64gb",
+    "productVariantName": "4GB RAM + 64GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1407.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "oppo-a5i",
+    "productVariantId": "4gb-128gb",
+    "productVariantName": "4GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1884.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "tecno-spark-40c",
+    "productVariantId": "4gb-128gb",
+    "productVariantName": "4GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1821.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "tecno-spark-go-2",
+    "productVariantId": "3gb-64gb",
+    "productVariantName": "3GB RAM + 64GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1412.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "tecno-spark-go-2",
+    "productVariantId": "3gb-128gb",
+    "productVariantName": "3GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1550.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "tecno-spark-go-2",
+    "productVariantId": "4gb-256gb",
+    "productVariantName": "4GB RAM + 256GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1968.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "nubia-music-pro",
+    "productVariantId": "4gb-128gb",
+    "productVariantName": "4GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 1388.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "nubia-neo-3",
+    "productVariantId": "8gb-128gb",
+    "productVariantName": "8GB RAM + 128GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2761.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "nubia-v70-design",
+    "productVariantId": "4gb-256gb",
+    "productVariantName": "4GB RAM + 256GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2145.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "nubia-v80-design",
+    "productVariantId": "4gb-256gb",
+    "productVariantName": "4GB RAM + 256GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2411.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "nubia-v80-design",
+    "productVariantId": "8gb-256gb",
+    "productVariantName": "8GB RAM + 256GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2657.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "infinix-hot-60-pro",
+    "productVariantId": "8gb-256gb",
+    "productVariantName": "8GB RAM + 256GB ROM",
+    "productVariantType": "ram-rom",
+    "priceListId": "3-mos",
+    "price": 2999.0,
+    "cashIn": 1000.0,
+    "currency": "PHP"
+  },
+  {
+    "productId": "nvision-smart-tv",
+    "productVariantId": "s43md",
+    "productVariantName": "S43MD | 43\"",
+    "productVariantType": "model",
+    "priceListId": "3-mos",
+    "price": 4526.0,
+    "cashIn": 2000.0,
+    "currency": "PHP"
+  }
+]

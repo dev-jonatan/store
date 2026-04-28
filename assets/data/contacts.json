@@ -1,0 +1,16 @@
+[
+  {
+    "id": "jonatan.liwanagan",
+    "name": "Jonatan Liwanagan",
+    "shortName": "Jonatan",
+    "photo": "assets/images/contact/profile/jonatan.liwanagan-sm.webp",
+    "storeAccount": true
+  },
+  {
+    "id": "cHOcoNH4T",
+    "name": "Nhat Nhat",
+    "shortName": "Nhat",
+    "photo": "assets/images/contact/profile/cHOcoNH4T-sm.webp",
+    "storeAccount": false
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "c1a76982",
+    "date": "2026-02-23",
+    "productId": "cashloan",
+    "principalAmount": 4000,
+    "payableAmount": 5187.96,
+    "interestRate": 0.049498,
+    "tenureInMonths": 6,
+    "repaymentTerm": "monthly",
+    "repayment": [
+      {
+        "id": 1,
+        "amount": 864.66,
+        "repaymentDate": "2026-03-23",
+        "dueDate": "2026-03-23",
+        "payments": []
+      },
+      {
+        "id": 2,
+        "amount": 864.66,
+        "repaymentDate": "2026-04-23",
+        "dueDate": "2026-04-23",
+        "payments": []
+      },
+      {
+        "id": 3,
+        "amount": 864.66,
+        "repaymentDate": "2026-05-23",
+        "dueDate": "2026-05-23",
+        "payments": []
+      },
+      {
+        "id": 4,
+        "amount": 864.66,
+        "repaymentDate": "2026-06-23",
+        "dueDate": "2026-06-23",
+        "payments": []
+      },
+      {
+        "id": 5,
+        "amount": 864.66,
+        "repaymentDate": "2026-07-23",
+        "dueDate": "2026-07-23",
+        "payments": []
+      },
+      {
+        "id": 6,
+        "amount": 864.66,
+        "repaymentDate": "2026-08-23",
+        "dueDate": "2026-08-23",
+        "payments": []
+      }
+    ]
+  }
+]

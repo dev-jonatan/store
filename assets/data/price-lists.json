@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cash",
+    "name": "Cash",
+    "isInstallment": false,
+    "paymentFrequency": "once",
+    "paymentDuration": 1
+  },
+  {
+    "id": "3-mos",
+    "name": "3-month installment",
+    "isInstallment": true,
+    "paymentFrequency": "monthly",
+    "paymentDuration": 3
+  },
+  {
+    "id": "6-mos",
+    "name": "6-month installment",
+    "isInstallment": true,
+    "paymentFrequency": "monthly",
+    "paymentDuration": 6
+  },
+  {
+    "id": "12-mos",
+    "name": "12-month installment",
+    "isInstallment": true,
+    "paymentFrequency": "monthly",
+    "paymentDuration": 12
+  }
+]

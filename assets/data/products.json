@@ -1,0 +1,1040 @@
+[
+  {
+    "id": "infinix-hot-50i",
+    "name": "Hot 50i",
+    "description": "MediaTek Helio G81, 120Hz Display",
+    "groupId": "infinix",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/infinix-hot-50i.webp",
+    "thumbnail": "assets/images/products/infinix-hot-50i/thumbnail.webp,",
+    "images": [
+      "assets/images/products/infinix-hot-50i/infinix-hot-50i.webp"
+    ],
+    "variants": [
+      {
+        "id": "dreamy-purple",
+        "name": "Dreamy Purple",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-50i/dreamy-purple.webp"
+        ]
+      },
+      {
+        "id": "titanium-grey",
+        "name": "Titanium Grey",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-50i/titanium-grey.webp"
+        ]
+      },
+      {
+        "id": "sage-green",
+        "name": "Sage Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-50i/sage-green.webp"
+        ]
+      },
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-50i/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "8gb-256gb",
+        "name": "8GB RAM + 256GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2798.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infinix-hot-60i",
+    "name": "Hot 60i",
+    "description": "MediaTek Helio G81, 120Hz Display",
+    "groupId": "infinix",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/infinix-hot-60i.webp",
+    "thumbnail": "assets/images/products/infinix-hot-60i/thumbnail.webp",
+    "images": [
+      "assets/images/products/infinix-hot-60i/infinix-hot-60i.webp"
+    ],
+    "variants": [
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "titanium-silver",
+        "name": "Titanium Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/titanium-silver.webp"
+        ]
+      },
+      {
+        "id": "shadow-blue",
+        "name": "Shadow Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/shadow-blue.webp"
+        ]
+      },
+      {
+        "id": "meadow-green",
+        "name": "Meadow Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/meadow-green.webp"
+        ]
+      },
+      {
+        "id": "neon-red",
+        "name": "Neon Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/neon-red.webp"
+        ]
+      },
+      {
+        "id": "soul-eye-purple",
+        "name": "Soul Eye Purple",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i/soul-eye-purple.webp"
+        ]
+      },
+      {
+        "id": "8gb-256gb",
+        "name": "8GB RAM + 256GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2815.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2395.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infinix-hot-60i-5g",
+    "name": "Hot 60i 5G",
+    "description": "MediaTek D6400 5G, 120Hz Display",
+    "groupId": "infinix",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/infinix-hot-60i-5g.webp",
+    "thumbnail": "assets/images/products/infinix-hot-60i-5g/thumbnail.webp",
+    "images": [
+      "assets/images/products/infinix-hot-60i-5g/infinix-hot-60i-5g.webp"
+    ],
+    "variants": [
+      {
+        "id": "shadow-blue",
+        "name": "Shadow Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i-5g/shadow-blue.webp"
+        ]
+      },
+      {
+        "id": "monsoon-green",
+        "name": "Monsoon Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i-5g/monsoon-green.webp"
+        ]
+      },
+      {
+        "id": "plum-red",
+        "name": "Plum Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i-5g/plum-red.webp"
+        ]
+      },
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60i-5g/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2496.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infinix-smart-9",
+    "name": "Smart 9",
+    "description": "MediaTek Helio G81, 120Hz Display",
+    "groupId": "infinix",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/infinix-smart-9.webp",
+    "thumbnail": "assets/images/products/infinix-smart-9/thumbnail.webp",
+    "images": [
+      "assets/images/products/infinix-smart-9/infinix-smart-9.webp"
+    ],
+    "variants": [
+      {
+        "id": "metallic-black",
+        "name": "Metallic Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-9/metallic-black.webp"
+        ]
+      },
+      {
+        "id": "mint-green",
+        "name": "Mint Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-9/mint-green.webp"
+        ]
+      },
+      {
+        "id": "neo-titanium",
+        "name": "Neo Titanium",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-9/neo-titanium.webp"
+        ]
+      },
+      {
+        "id": "sandstone-gold",
+        "name": "Sandstone Gold",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-9/sandstone-gold.webp"
+        ]
+      },
+      {
+        "id": "3gb-128gb",
+        "name": "3GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1919.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "4gb-64gb",
+        "name": "4GB RAM + 64GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1673.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "3gb-64gb",
+        "name": "3GB RAM + 64GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1506.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infinix-smart-10",
+    "name": "Smart 10",
+    "description": "Unisoc T7250, 120Hz Display, Endurable IP64",
+    "groupId": "infinix",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/infinix-smart-10.webp",
+    "thumbnail": "assets/images/products/infinix-smart-10/thumbnail.webp",
+    "images": [
+      "assets/images/products/infinix-smart-10/infinix-smart-10.webp"
+    ],
+    "variants": [
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "titanium-silver",
+        "name": "Titanium Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10/titanium-silver.webp"
+        ]
+      },
+      {
+        "id": "twilight-gold",
+        "name": "Twilight Gold",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10/twilight-gold.webp"
+        ]
+      },
+      {
+        "id": "iris-blue",
+        "name": "Iris Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10/iris-blue.webp"
+        ]
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2018.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1761.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "4gb-64gb",
+        "name": "4GB RAM + 64GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1507.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "3gb-64gb",
+        "name": "3GB RAM + 64GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1405.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infinix-smart-10-plus",
+    "name": "Smart 10 Plus",
+    "description": "Unisoc T7250, 120Hz Display, Endurable IP64",
+    "groupId": "infinix",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/infinix-smart-10-plus.webp",
+    "thumbnail": "assets/images/products/infinix-smart-10-plus/thumbnail.webp",
+    "images": [
+      "assets/images/products/infinix-smart-10-plus/infinix-smart-10-plus.webp"
+    ],
+    "variants": [
+      {
+        "id": "ruby-red",
+        "name": "Ruby Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10-plus/ruby-red.webp"
+        ]
+      },
+      {
+        "id": "iris-blue",
+        "name": "Iris Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10-plus/iris-blue.webp"
+        ]
+      },
+      {
+        "id": "titanium-silver",
+        "name": "Titanium Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10-plus/titanium-silver.webp"
+        ]
+      },
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-smart-10-plus/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1891.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infinix-hot-60-pro",
+    "name": "Hot 60 Pro",
+    "description": "Mediatek Helio G200, Up to 16GB Extended Ram, Ultra-Slim Frame, 144Hz AMOLED Display, 5160 mAh 45w Battery",
+    "groupId": "infinix",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/infinix-hot-60-pro.webp",
+    "thumbnail": "assets/images/products/infinix-hot-60-pro/thumbnail.webp",
+    "images": [
+      "assets/images/products/infinix-hot-60-pro/infinix-hot-60-pro.webp"
+    ],
+    "variants": [
+      {
+        "id": "sapphire-blue",
+        "name": "Sapphire Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/sapphire-blue.webp"
+        ]
+      },
+      {
+        "id": "sleek-black",
+        "name": "Sleek Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/sleek-black.webp"
+        ]
+      },
+      {
+        "id": "titanium-silver",
+        "name": "Titanium Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/titanium-silver.webp"
+        ]
+      },
+      {
+        "id": "coral-tides",
+        "name": "Coral Tides",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/coral-tides.webp"
+        ]
+      },
+      {
+        "id": "jungle-breath",
+        "name": "Jungle Breath",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/jungle-breath.webp"
+        ]
+      },
+      {
+        "id": "orange-rose-valley",
+        "name": "Orange Rose Valley",
+        "type": "color",
+        "images": [
+          "assets/images/products/infinix-hot-60-pro/orange-rose-valley.webp"
+        ]
+      },
+      {
+        "id": "8gb-256gb",
+        "name": "8GB RAM + 256GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2999.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oppo-a3x",
+    "name": "A3x",
+    "description": "Snapdragon 6s 4G Gen1, Military-Grade Shock Resistance",
+    "groupId": "oppo",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/oppo-a3x.webp",
+    "thumbnail": "assets/images/products/oppo-a3x/thumbnail.webp",
+    "images": [
+      "assets/images/products/oppo-a3x/oppo-a3x.webp",
+      "assets/images/products/oppo-a3x/oppo-a3x-1.webp",
+      "assets/images/products/oppo-a3x/oppo-a3x-2.webp",
+      "assets/images/products/oppo-a3x/oppo-a3x-3.webp",
+      "assets/images/products/oppo-a3x/oppo-a3x-4.webp",
+      "assets/images/products/oppo-a3x/oppo-a3x-5.webp"
+    ],
+    "variants": [
+      {
+        "id": "nebula-red",
+        "name": "Nebula Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/oppo-a3x/nebula-red.webp"
+        ]
+      },
+      {
+        "id": "ocean-blue",
+        "name": "Ocean Blue",
+        "type": "color",
+        "images": [
+          "assets/images/products/oppo-a3x/ocean-blue.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1771.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "4gb-64gb",
+        "name": "4GB RAM + 64GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1348.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oppo-a5i",
+    "name": "A5i",
+    "description": "Snapdragon 6s 4G 45W, SUPERVOOC Flash Charge",
+    "groupId": "oppo",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/oppo-a5i.webp",
+    "thumbnail": "assets/images/products/oppo-a5i/thumbnail.webp",
+    "images": [
+      "assets/images/products/oppo-a5i/oppo-a5i.webp",
+      "assets/images/products/oppo-a5i/oppo-a5i-1.webp",
+      "assets/images/products/oppo-a5i/oppo-a5i-2.webp",
+      "assets/images/products/oppo-a5i/oppo-a5i-3.webp",
+      "assets/images/products/oppo-a5i/oppo-a5i-4.webp",
+      "assets/images/products/oppo-a5i/oppo-a5i-5.webp"
+    ],
+    "variants": [
+      {
+        "id": "nebula-red",
+        "name": "Nebula Red",
+        "type": "color",
+        "images": [
+          "assets/images/products/oppo-a5i/nebula-red.webp"
+        ]
+      },
+      {
+        "id": "starry-purple",
+        "name": "Starry Purple",
+        "type": "color",
+        "images": [
+          "assets/images/products/oppo-a5i/starry-purple.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1884.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "4gb-64gb",
+        "name": "4GB RAM + 64GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1407.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tecno-spark-40c",
+    "name": "Spark 40C",
+    "description": "Mediatek Helio G81, 120Hz 6.67\" Smooth Display, IP64, 6000mAh 18W Big Battery",
+    "groupId": "tecno",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/tecno-spark-40c.webp",
+    "thumbnail": "assets/images/products/tecno-spark-40c/thumbnail.webp",
+    "images": [
+      "assets/images/products/tecno-spark-40c/tecno-spark-40c.webp",
+      "assets/images/products/tecno-spark-40c/tecno-spark-40c-1.webp",
+      "assets/images/products/tecno-spark-40c/tecno-spark-40c-2.webp",
+      "assets/images/products/tecno-spark-40c/tecno-spark-40c-3.webp",
+      "assets/images/products/tecno-spark-40c/tecno-spark-40c-4.webp",
+      "assets/images/products/tecno-spark-40c/tecno-spark-40c-5.webp",
+      "assets/images/products/tecno-spark-40c/tecno-spark-40c-6.webp",
+      "assets/images/products/tecno-spark-40c/tecno-spark-40c-7.webp",
+      "assets/images/products/tecno-spark-40c/tecno-spark-40c-8.webp"
+    ],
+    "variants": [
+      {
+        "id": "titanium-grey",
+        "name": "Titanium Grey",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-40c/titanium-grey.webp"
+        ]
+      },
+      {
+        "id": "veil-white",
+        "name": "Veil White",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-40c/veil-white.webp"
+        ]
+      },
+      {
+        "id": "ink-black",
+        "name": "Ink Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-40c/ink-black.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1821.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tecno-spark-go-2",
+    "name": "Spark Go 2",
+    "description": "Unisoc T7250, 120Hz 6.67\" Smooth Display, IP64, 5000mAH",
+    "groupId": "tecno",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/tecno-spark-go-2.webp",
+    "thumbnail": "assets/images/products/tecno-spark-go-2/thumbnail.webp",
+    "images": [
+      "assets/images/products/tecno-spark-go-2/tecno-spark-go-2.webp",
+      "assets/images/products/tecno-spark-go-2/tecno-spark-go-2-1.webp",
+      "assets/images/products/tecno-spark-go-2/tecno-spark-go-2-2.webp",
+      "assets/images/products/tecno-spark-go-2/tecno-spark-go-2-3.webp",
+      "assets/images/products/tecno-spark-go-2/tecno-spark-go-2-4.webp",
+      "assets/images/products/tecno-spark-go-2/tecno-spark-go-2-5.webp",
+      "assets/images/products/tecno-spark-go-2/tecno-spark-go-2-6.webp",
+      "assets/images/products/tecno-spark-go-2/tecno-spark-go-2-7.webp"
+    ],
+    "variants": [
+      {
+        "id": "ink-black",
+        "name": "Ink Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-go-2/ink-black.webp"
+        ]
+      },
+      {
+        "id": "veil-white",
+        "name": "Veil White",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-go-2/veil-white.webp"
+        ]
+      },
+      {
+        "id": "titanium-grey",
+        "name": "Titanium Grey",
+        "type": "color",
+        "images": [
+          "assets/images/products/tecno-spark-go-2/titanium-grey.webp"
+        ]
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1968.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "3gb-128gb",
+        "name": "3GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1550.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "3gb-64gb",
+        "name": "3GB RAM + 64GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1412.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nubia-music-pro",
+    "name": "Music Pro",
+    "description": "Unisoc SC9863A, Triple Ultra-Large Speakers, 6.7\" HD + 120Hz Display",
+    "groupId": "nubia",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/nubia-music-pro.webp",
+    "thumbnail": "assets/images/products/nubia-music-pro/thumbnail.webp",
+    "images": [
+      "assets/images/products/nubia-music-pro/nubia-music-pro.webp",
+      "assets/images/products/nubia-music-pro/nubia-music-pro-1.webp",
+      "assets/images/products/nubia-music-pro/nubia-music-pro-2.webp"
+    ],
+    "variants": [
+      {
+        "id": "pop-art",
+        "name": "Pop Art",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-music-pro/pop-art.webp"
+        ]
+      },
+      {
+        "id": "melody-wave",
+        "name": "Melody Wave",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-music-pro/melody-wave.webp"
+        ]
+      },
+      {
+        "id": "4gb-128gb",
+        "name": "4GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 1388.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nubia-neo-3",
+    "name": "Neo 3",
+    "description": "Unisoc T8100, 6.8\" fHD + 120Hz Display, Gaming Phone",
+    "groupId": "nubia",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/nubia-neo-3.webp",
+    "thumbnail": "assets/images/products/nubia-neo-3/thumbnail.webp",
+    "images": [
+      "assets/images/products/nubia-neo-3/nubia-neo-3.webp"
+    ],
+    "variants": [
+      {
+        "id": "cyber-silver",
+        "name": "Cyber Silver",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-neo-3/cyber-silver.webp",
+          "assets/images/products/nubia-neo-3/cyber-silver-1.webp"
+        ]
+      },
+      {
+        "id": "titanium-gold",
+        "name": "Titanium Gold",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-neo-3/titanium-gold.webp",
+          "assets/images/products/nubia-neo-3/titanium-gold-1.webp",
+          "assets/images/products/nubia-neo-3/titanium-gold-2.webp"
+        ]
+      },
+      {
+        "id": "shadow-black",
+        "name": "Shadow Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-neo-3/shadow-black.webp",
+          "assets/images/products/nubia-neo-3/shadow-black-1.webp"
+        ]
+      },
+      {
+        "id": "8gb-128gb",
+        "name": "8GB RAM + 128GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2761.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nubia-v70-design",
+    "name": "V70 Design",
+    "description": "Unisoc T606, Up to 14GB Dynamic Ram, 50MP AI Camera",
+    "groupId": "nubia",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/nubia-v70-design.webp",
+    "thumbnail": "assets/images/products/nubia-v70-design/thumbnail.webp",
+    "images": [
+      "assets/images/products/nubia-v70-design/nubia-v70-design.webp",
+      "assets/images/products/nubia-v70-design/nubia-v70-design-1.webp",
+      "assets/images/products/nubia-v70-design/nubia-v70-design-2.webp",
+      "assets/images/products/nubia-v70-design/nubia-v70-design-3.webp",
+      "assets/images/products/nubia-v70-design/nubia-v70-design-4.webp"
+    ],
+    "variants": [
+      {
+        "id": "stone-gray",
+        "name": "Stone Gray",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v70-design/stone-gray.webp"
+        ]
+      },
+      {
+        "id": "jade-green",
+        "name": "Jade Green",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v70-design/jade-green.webp"
+        ]
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2145.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nubia-v80-design",
+    "name": "V80 Design",
+    "description": "Unisoc T7280, Up to 12GB Extended Ram, 50MP AI Camera",
+    "groupId": "nubia",
+    "categoryId": "smartphone",
+    "banner": "assets/images/products/banners/nubia-v80-design.webp",
+    "thumbnail": "assets/images/products/nubia-v80-design/thumbnail.webp",
+    "images": [
+      "assets/images/products/nubia-v80-design/nubia-v80-design.webp"
+    ],
+    "variants": [
+      {
+        "id": "midnight-black",
+        "name": "Midnight Black",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v80-design/midnight-black.webp",
+          "assets/images/products/nubia-v80-design/midnight-black-1.webp",
+          "assets/images/products/nubia-v80-design/midnight-black-2.webp"
+        ]
+      },
+      {
+        "id": "pale-amber",
+        "name": "Pale Amber",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v80-design/pale-amber.webp",
+          "assets/images/products/nubia-v80-design/pale-amber-1.webp"
+        ]
+      },
+      {
+        "id": "celadon-cyan",
+        "name": "Celadon Cyan",
+        "type": "color",
+        "images": [
+          "assets/images/products/nubia-v80-design/celadon-cyan.webp",
+          "assets/images/products/nubia-v80-design/celadon-cyan-1.webp"
+        ]
+      },
+      {
+        "id": "8gb-256gb",
+        "name": "8GB RAM + 256GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2657.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      },
+      {
+        "id": "4gb-256gb",
+        "name": "4GB RAM + 256GB ROM",
+        "type": "ram-rom",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 2411.0,
+            "cashIn": 1000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nvision-smart-tv",
+    "name": "Smart TV 43\"",
+    "description": "Full HD TV, 1920 x 1080 Resolution, 3 x HDMI, 1 x RJ45, 2 x USB 2.0 Ports, Wi-Fi + Bluetooth Connectivity, 1GB RAM + 8GB ROM, Android 12.0",
+    "groupId": "nvision",
+    "categoryId": "tv",
+    "banner": "assets/images/products/banners/nvision-s43md-smart-tv-43.webp",
+    "thumbnail": "assets/images/products/nvision-smart-tv/thumbnail.webp",
+    "images": [
+      "assets/images/products/nvision-smart-tv/nvision-smart-tv.webp",
+      "assets/images/products/nvision-smart-tv/nvision-smart-tv-01.webp",
+      "assets/images/products/nvision-smart-tv/nvision-smart-tv-02.webp",
+      "assets/images/products/nvision-smart-tv/nvision-smart-tv-03.webp",
+      "assets/images/products/nvision-smart-tv/nvision-smart-tv-04.webp",
+      "assets/images/products/nvision-smart-tv/nvision-smart-tv-05.webp",
+      "assets/images/products/nvision-smart-tv/nvision-smart-tv-06.webp",
+      "assets/images/products/nvision-smart-tv/nvision-smart-tv-07.webp",
+      "assets/images/products/nvision-smart-tv/nvision-smart-tv-08.webp"
+    ],
+    "variants": [
+      {
+        "id": "s43md",
+        "name": "43\"",
+        "type": "model",
+        "prices": [
+          {
+            "priceListId": "3-mos",
+            "price": 4526.0,
+            "cashIn": 2000.0,
+            "currency": "PHP"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1-month",
+    "termMonths": 1,
+    "rate": 0.06,
+    "minAmount": 500
+  },
+  {
+    "id": "3-months",
+    "termMonths": 3,
+    "rate": 0.0673,
+    "minAmount": 1000
+  },
+  {
+    "id": "6-months",
+    "termMonths": 6,
+    "rate": 0.0782,
+    "minAmount": 3000
+  },
+  {
+    "id": "9-months",
+    "termMonths": 9,
+    "rate": 0.0891,
+    "minAmount": 5000
+  },
+  {
+    "id": "12-months",
+    "termMonths": 12,
+    "rate": 0.1,
+    "minAmount": 5000
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "WA9031",
+    "lineId": 1,
+    "dueDate": "2025-12-30",
+    "amount": 2018.00,
+    "payments": []
+  },
+  {
+    "id": "WA9031",
+    "lineId": 2,
+    "dueDate": "2026-01-30",
+    "amount": 2018.00,
+    "payments": [
+      {
+        "id": 1,
+        "date": "2026-01-31",
+        "amount": 2018.00,
+        "mode": "Cash"
+      }
+    ]
+  },
+  {
+    "id": "WA9031",
+    "lineId": 3,
+    "dueDate": "2026-02-28",
+    "amount": 2018.00,
+    "payments": [
+      {
+        "id": 1,
+        "date": "2026-03-03",
+        "amount": 2018.00,
+        "mode": "Cash"
+      }
+    ]
+  },
+  {
+    "id": "FK4826",
+    "lineId": 1,
+    "dueDate": "2026-01-01",
+    "amount": 1609.00,
+    "payments": [
+      {
+        "id": 1,
+        "date": "2026-01-06",
+        "amount": 1609.00,
+        "mode": "GCash"
+      }
+    ]
+  },
+  {
+    "id": "FK4826",
+    "lineId": 2,
+    "dueDate": "2026-02-01",
+    "amount": 1609.00,
+    "payments": [
+      {
+        "id": 1,
+        "date": "2026-02-05",
+        "amount": 1609.00,
+        "mode": "GCash"
+      }
+    ]
+  },
+  {
+    "id": "FK4826",
+    "lineId": 3,
+    "dueDate": "2026-03-01",
+    "amount": 1609.00,
+    "payments": [
+      {
+        "id": 1,
+        "date": "2026-03-05",
+        "amount": 1609.00,
+        "mode": "GCash"
+      }
+    ]
+  }
+]

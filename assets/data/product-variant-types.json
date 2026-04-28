@@ -1,0 +1,14 @@
+[
+  {
+    "id": "color",
+    "name": "Color"
+  },
+  {
+    "id": "ram-rom",
+    "name": "RAM + ROM"
+  },
+  {
+    "id": "model",
+    "name": "Model"
+  }
+]

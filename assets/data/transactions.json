@@ -1,0 +1,32 @@
+[
+  {
+    "id": "WA9031",
+    "date": "2025-11-30",
+    "productId": "infinix-smart-10",
+    "variants": [
+      {
+        "typeId": "color",
+        "variantId": "iris-blue"
+      },
+      {
+        "typeId": "ram-rom",
+        "variantId": "4gb-256gb"
+      }
+    ]
+  },
+  {
+    "id": "FK4826",
+    "date": "2025-12-01",
+    "productId": "infinix-hot-60i-5g",
+    "variants": [
+      {
+        "typeId": "color",
+        "variantId": "shadow-blue"
+      },
+      {
+        "typeId": "ram-rom",
+        "variantId": "4gb-128gb"
+      }
+    ]
+  }
+]
